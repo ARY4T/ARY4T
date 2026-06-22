@@ -16,27 +16,43 @@ Here are some ideas to get you started:
 -->
 # Hi, I'm Arya
 
-🎓 ECE Student at NIT Hamirpur
-💻 Interested in Software Development
+ECE @ NIT Hamirpur | Competitive Programmer | Backend Developer
 
-## Tech Stack
 
-### Languages
+## 🚀 Tech Stack
+
+### 💻 Languages
 - C++
-- JavaScript
+- JavaScript (ES6+)
 - Python
 
-### Backend
+### 🎨 Frontend
+- HTML5
+- CSS3
+- EJS
+
+### ⚙️ Backend
 - Node.js
 - Express.js
 
-### Databases
+### 🗄️ Databases
 - MySQL
 
-### Tools
+### 🔗 ORM
+- Sequelize
+
+### 🛠️ Tools & Technologies
 - Git
 - GitHub
 - VS Code
+- npm
 
+### 🧩 Problem Solving
+- Data Structures & Algorithms
+- Competitive Programming
+
+### 📚 Currently Learning
+- Backend Development with Node.js & Express
+- Database Design & Optimization
 
   
