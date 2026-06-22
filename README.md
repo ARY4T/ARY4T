@@ -55,4 +55,15 @@ ECE @ NIT Hamirpur | Competitive Programmer | Backend Developer
 - Backend Development with Node.js & Express
 - Database Design & Optimization
 
+⚡ Fun Facts:
+- Solving DSA daily
+- Learning Japanese 🇯🇵
+- Love geopolitics and finance
   
+  ## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+
+![Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
