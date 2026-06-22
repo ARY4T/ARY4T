@@ -64,4 +64,4 @@ ECE @ NIT Hamirpur | Competitive Programmer | Backend Developer
 
 ![Streak](https://streak-stats.demolab.com?user=ARY4T)
 
-![Top Languages] [https://github-readme-stats.vercel.app/api/top-langs/?username=ARY4T&layout=compact](https://github-readme-stats.vercel.app/api/top-langs/?username=ARY4T](https://github-readme-stats.vercel.app/api/top-langs/?username=ARY4T)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ARY4T&layout=compact)
