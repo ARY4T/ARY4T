@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **ARY4T/ARY4T** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
