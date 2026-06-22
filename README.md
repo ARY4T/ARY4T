@@ -14,3 +14,29 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi, I'm Arya
+
+🎓 ECE Student at NIT Hamirpur
+💻 Interested in Software Development
+
+## Tech Stack
+
+### Languages
+- C++
+- JavaScript
+- Python
+
+### Backend
+- Node.js
+- Express.js
+
+### Databases
+- MySQL
+
+### Tools
+- Git
+- GitHub
+- VS Code
+
+
+  
