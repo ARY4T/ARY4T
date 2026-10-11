@@ -24,40 +24,20 @@ ECE @ NIT Hamirpur | Competitive Programmer | Backend Developer
 - JavaScript (ES6+)
 - Python
 
-### 🎨 Frontend
-- HTML5
-- CSS3
-- EJS
-
 ### ⚙️ Backend
 - Node.js
 - Express.js
 
 ### 🗄️ Databases
 - MySQL
-
-### 🔗 ORM
-- Sequelize
-
-### 🛠️ Tools & Technologies
-- Git
-- GitHub
-- VS Code
-- npm
+- MongoDb
 
 ### 🧩 Problem Solving
 - Data Structures & Algorithms
 - Competitive Programming
 
-### 📚 Currently Learning
-- Backend Development with Node.js & Express
-- Database Design & Optimization
 
-⚡ Fun Facts:
-- Solving DSA daily
-- Learning Japanese 🇯🇵
-- Love geopolitics and finance
-  
+
   ## 📊 GitHub Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=ARY4T&show_icons=true)
